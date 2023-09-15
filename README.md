@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshThaker
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently mastering Python.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me? Just don't.
 
