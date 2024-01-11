@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnshThaker
 - 👀 I’m interested in Python.
 - 🌱 I’m currently mastering Python.
-- 💞️ I’m looking to collaborate on nothing for now.
+- 🤝 I’m looking to collaborate on nothing for now.
 - 📫 How to reach me? Just don't.
 
 Some programming languages I have experience with:
