@@ -13,6 +13,8 @@ Some programming languages I have experience with:
 6. GDScript
 7. Go
 
+[![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshThaker)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 AnshThaker/AnshThaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
