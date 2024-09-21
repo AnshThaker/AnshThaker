@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnshThaker
-- 👀 I’m interested in Python.
-- 🌱 I’m currently mastering Python.
-- 🤝 I’m looking to collaborate on nothing for now.
-- 📫 How to reach me? Just don't.
+- 🐍 I’m mastering Python.
+- 👨🏾‍💻 Currently working on a cool project!
+
+My most impressive public project yet: https://github.com/AnshThaker/text-based-adventure-game
 
 Some programming languages I have experience with:
 1. Python
